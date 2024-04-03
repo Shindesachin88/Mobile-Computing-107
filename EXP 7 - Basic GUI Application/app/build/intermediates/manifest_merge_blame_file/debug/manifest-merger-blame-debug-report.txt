@@ -6,97 +6,97 @@
 6
 7    <uses-sdk
 8        android:minSdkVersion="21"
-8-->C:\Users\ADMIN\Downloads\Mobile_Computing_lab_-main\EXP 7 - Basic GUI Application\app\src\main\AndroidManifest.xml
+8-->F:\Mobile_Computing_lab_-main -107\EXP 7 - Basic GUI Application\app\src\main\AndroidManifest.xml
 9        android:targetSdkVersion="30" />
-9-->C:\Users\ADMIN\Downloads\Mobile_Computing_lab_-main\EXP 7 - Basic GUI Application\app\src\main\AndroidManifest.xml
+9-->F:\Mobile_Computing_lab_-main -107\EXP 7 - Basic GUI Application\app\src\main\AndroidManifest.xml
 10
 11    <application
-11-->C:\Users\ADMIN\Downloads\Mobile_Computing_lab_-main\EXP 7 - Basic GUI Application\app\src\main\AndroidManifest.xml:6:5-50:19
+11-->F:\Mobile_Computing_lab_-main -107\EXP 7 - Basic GUI Application\app\src\main\AndroidManifest.xml:6:5-50:19
 12        android:allowBackup="true"
-12-->C:\Users\ADMIN\Downloads\Mobile_Computing_lab_-main\EXP 7 - Basic GUI Application\app\src\main\AndroidManifest.xml:7:9-35
+12-->F:\Mobile_Computing_lab_-main -107\EXP 7 - Basic GUI Application\app\src\main\AndroidManifest.xml:7:9-35
 13        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
 13-->[androidx.core:core:1.5.0] C:\Users\ADMIN\.gradle\caches\transforms-3\4494bece03a6b44b788ed162a8727dab\transformed\core-1.5.0\AndroidManifest.xml:24:18-86
 14        android:debuggable="true"
 15        android:icon="@mipmap/ic_launcher"
-15-->C:\Users\ADMIN\Downloads\Mobile_Computing_lab_-main\EXP 7 - Basic GUI Application\app\src\main\AndroidManifest.xml:8:9-43
+15-->F:\Mobile_Computing_lab_-main -107\EXP 7 - Basic GUI Application\app\src\main\AndroidManifest.xml:8:9-43
 16        android:label="@string/app_name"
-16-->C:\Users\ADMIN\Downloads\Mobile_Computing_lab_-main\EXP 7 - Basic GUI Application\app\src\main\AndroidManifest.xml:9:9-41
+16-->F:\Mobile_Computing_lab_-main -107\EXP 7 - Basic GUI Application\app\src\main\AndroidManifest.xml:9:9-41
 17        android:roundIcon="@mipmap/ic_launcher_round"
-17-->C:\Users\ADMIN\Downloads\Mobile_Computing_lab_-main\EXP 7 - Basic GUI Application\app\src\main\AndroidManifest.xml:10:9-54
+17-->F:\Mobile_Computing_lab_-main -107\EXP 7 - Basic GUI Application\app\src\main\AndroidManifest.xml:10:9-54
 18        android:supportsRtl="true"
-18-->C:\Users\ADMIN\Downloads\Mobile_Computing_lab_-main\EXP 7 - Basic GUI Application\app\src\main\AndroidManifest.xml:11:9-35
+18-->F:\Mobile_Computing_lab_-main -107\EXP 7 - Basic GUI Application\app\src\main\AndroidManifest.xml:11:9-35
 19        android:testOnly="true"
 20        android:theme="@style/AppTheme" >
-20-->C:\Users\ADMIN\Downloads\Mobile_Computing_lab_-main\EXP 7 - Basic GUI Application\app\src\main\AndroidManifest.xml:12:9-40
+20-->F:\Mobile_Computing_lab_-main -107\EXP 7 - Basic GUI Application\app\src\main\AndroidManifest.xml:12:9-40
 21        <activity
-21-->C:\Users\ADMIN\Downloads\Mobile_Computing_lab_-main\EXP 7 - Basic GUI Application\app\src\main\AndroidManifest.xml:14:9-19:66
+21-->F:\Mobile_Computing_lab_-main -107\EXP 7 - Basic GUI Application\app\src\main\AndroidManifest.xml:14:9-19:66
 22            android:name="com.shashank.platform.furnitureecommerceappui.Main5Activity"
-22-->C:\Users\ADMIN\Downloads\Mobile_Computing_lab_-main\EXP 7 - Basic GUI Application\app\src\main\AndroidManifest.xml:15:13-42
+22-->F:\Mobile_Computing_lab_-main -107\EXP 7 - Basic GUI Application\app\src\main\AndroidManifest.xml:15:13-42
 23            android:label=""
-23-->C:\Users\ADMIN\Downloads\Mobile_Computing_lab_-main\EXP 7 - Basic GUI Application\app\src\main\AndroidManifest.xml:16:13-29
+23-->F:\Mobile_Computing_lab_-main -107\EXP 7 - Basic GUI Application\app\src\main\AndroidManifest.xml:16:13-29
 24            android:screenOrientation="portrait"
-24-->C:\Users\ADMIN\Downloads\Mobile_Computing_lab_-main\EXP 7 - Basic GUI Application\app\src\main\AndroidManifest.xml:17:13-49
+24-->F:\Mobile_Computing_lab_-main -107\EXP 7 - Basic GUI Application\app\src\main\AndroidManifest.xml:17:13-49
 25            android:theme="@style/MyAppTheme"
-25-->C:\Users\ADMIN\Downloads\Mobile_Computing_lab_-main\EXP 7 - Basic GUI Application\app\src\main\AndroidManifest.xml:18:13-46
+25-->F:\Mobile_Computing_lab_-main -107\EXP 7 - Basic GUI Application\app\src\main\AndroidManifest.xml:18:13-46
 26            android:windowSoftInputMode="stateHidden|adjustPan" />
-26-->C:\Users\ADMIN\Downloads\Mobile_Computing_lab_-main\EXP 7 - Basic GUI Application\app\src\main\AndroidManifest.xml:19:13-64
+26-->F:\Mobile_Computing_lab_-main -107\EXP 7 - Basic GUI Application\app\src\main\AndroidManifest.xml:19:13-64
 27        <activity
-27-->C:\Users\ADMIN\Downloads\Mobile_Computing_lab_-main\EXP 7 - Basic GUI Application\app\src\main\AndroidManifest.xml:20:9-25:67
+27-->F:\Mobile_Computing_lab_-main -107\EXP 7 - Basic GUI Application\app\src\main\AndroidManifest.xml:20:9-25:67
 28            android:name="com.shashank.platform.furnitureecommerceappui.Main4Activity"
-28-->C:\Users\ADMIN\Downloads\Mobile_Computing_lab_-main\EXP 7 - Basic GUI Application\app\src\main\AndroidManifest.xml:21:13-42
+28-->F:\Mobile_Computing_lab_-main -107\EXP 7 - Basic GUI Application\app\src\main\AndroidManifest.xml:21:13-42
 29            android:label=""
-29-->C:\Users\ADMIN\Downloads\Mobile_Computing_lab_-main\EXP 7 - Basic GUI Application\app\src\main\AndroidManifest.xml:22:13-29
+29-->F:\Mobile_Computing_lab_-main -107\EXP 7 - Basic GUI Application\app\src\main\AndroidManifest.xml:22:13-29
 30            android:screenOrientation="portrait"
-30-->C:\Users\ADMIN\Downloads\Mobile_Computing_lab_-main\EXP 7 - Basic GUI Application\app\src\main\AndroidManifest.xml:23:13-49
+30-->F:\Mobile_Computing_lab_-main -107\EXP 7 - Basic GUI Application\app\src\main\AndroidManifest.xml:23:13-49
 31            android:theme="@style/AppTheme.NoActionBar"
-31-->C:\Users\ADMIN\Downloads\Mobile_Computing_lab_-main\EXP 7 - Basic GUI Application\app\src\main\AndroidManifest.xml:24:13-56
+31-->F:\Mobile_Computing_lab_-main -107\EXP 7 - Basic GUI Application\app\src\main\AndroidManifest.xml:24:13-56
 32            android:windowSoftInputMode="stateHidden|adjustPan" />
-32-->C:\Users\ADMIN\Downloads\Mobile_Computing_lab_-main\EXP 7 - Basic GUI Application\app\src\main\AndroidManifest.xml:25:13-64
+32-->F:\Mobile_Computing_lab_-main -107\EXP 7 - Basic GUI Application\app\src\main\AndroidManifest.xml:25:13-64
 33        <activity
-33-->C:\Users\ADMIN\Downloads\Mobile_Computing_lab_-main\EXP 7 - Basic GUI Application\app\src\main\AndroidManifest.xml:26:9-31:67
+33-->F:\Mobile_Computing_lab_-main -107\EXP 7 - Basic GUI Application\app\src\main\AndroidManifest.xml:26:9-31:67
 34            android:name="com.shashank.platform.furnitureecommerceappui.Main3Activity"
-34-->C:\Users\ADMIN\Downloads\Mobile_Computing_lab_-main\EXP 7 - Basic GUI Application\app\src\main\AndroidManifest.xml:27:13-42
+34-->F:\Mobile_Computing_lab_-main -107\EXP 7 - Basic GUI Application\app\src\main\AndroidManifest.xml:27:13-42
 35            android:label=""
-35-->C:\Users\ADMIN\Downloads\Mobile_Computing_lab_-main\EXP 7 - Basic GUI Application\app\src\main\AndroidManifest.xml:28:13-29
+35-->F:\Mobile_Computing_lab_-main -107\EXP 7 - Basic GUI Application\app\src\main\AndroidManifest.xml:28:13-29
 36            android:screenOrientation="portrait"
-36-->C:\Users\ADMIN\Downloads\Mobile_Computing_lab_-main\EXP 7 - Basic GUI Application\app\src\main\AndroidManifest.xml:29:13-49
+36-->F:\Mobile_Computing_lab_-main -107\EXP 7 - Basic GUI Application\app\src\main\AndroidManifest.xml:29:13-49
 37            android:theme="@style/AppTheme.NoActionBar"
-37-->C:\Users\ADMIN\Downloads\Mobile_Computing_lab_-main\EXP 7 - Basic GUI Application\app\src\main\AndroidManifest.xml:30:13-56
+37-->F:\Mobile_Computing_lab_-main -107\EXP 7 - Basic GUI Application\app\src\main\AndroidManifest.xml:30:13-56
 38            android:windowSoftInputMode="stateHidden|adjustPan" />
-38-->C:\Users\ADMIN\Downloads\Mobile_Computing_lab_-main\EXP 7 - Basic GUI Application\app\src\main\AndroidManifest.xml:31:13-64
+38-->F:\Mobile_Computing_lab_-main -107\EXP 7 - Basic GUI Application\app\src\main\AndroidManifest.xml:31:13-64
 39        <activity
-39-->C:\Users\ADMIN\Downloads\Mobile_Computing_lab_-main\EXP 7 - Basic GUI Application\app\src\main\AndroidManifest.xml:32:9-37:67
+39-->F:\Mobile_Computing_lab_-main -107\EXP 7 - Basic GUI Application\app\src\main\AndroidManifest.xml:32:9-37:67
 40            android:name="com.shashank.platform.furnitureecommerceappui.Main2Activity"
-40-->C:\Users\ADMIN\Downloads\Mobile_Computing_lab_-main\EXP 7 - Basic GUI Application\app\src\main\AndroidManifest.xml:33:13-42
+40-->F:\Mobile_Computing_lab_-main -107\EXP 7 - Basic GUI Application\app\src\main\AndroidManifest.xml:33:13-42
 41            android:label=""
-41-->C:\Users\ADMIN\Downloads\Mobile_Computing_lab_-main\EXP 7 - Basic GUI Application\app\src\main\AndroidManifest.xml:34:13-29
+41-->F:\Mobile_Computing_lab_-main -107\EXP 7 - Basic GUI Application\app\src\main\AndroidManifest.xml:34:13-29
 42            android:screenOrientation="portrait"
-42-->C:\Users\ADMIN\Downloads\Mobile_Computing_lab_-main\EXP 7 - Basic GUI Application\app\src\main\AndroidManifest.xml:35:13-49
+42-->F:\Mobile_Computing_lab_-main -107\EXP 7 - Basic GUI Application\app\src\main\AndroidManifest.xml:35:13-49
 43            android:theme="@style/AppTheme.NoActionBar"
-43-->C:\Users\ADMIN\Downloads\Mobile_Computing_lab_-main\EXP 7 - Basic GUI Application\app\src\main\AndroidManifest.xml:36:13-56
+43-->F:\Mobile_Computing_lab_-main -107\EXP 7 - Basic GUI Application\app\src\main\AndroidManifest.xml:36:13-56
 44            android:windowSoftInputMode="stateHidden|adjustPan" />
-44-->C:\Users\ADMIN\Downloads\Mobile_Computing_lab_-main\EXP 7 - Basic GUI Application\app\src\main\AndroidManifest.xml:37:13-64
+44-->F:\Mobile_Computing_lab_-main -107\EXP 7 - Basic GUI Application\app\src\main\AndroidManifest.xml:37:13-64
 45        <activity
-45-->C:\Users\ADMIN\Downloads\Mobile_Computing_lab_-main\EXP 7 - Basic GUI Application\app\src\main\AndroidManifest.xml:38:9-49:20
+45-->F:\Mobile_Computing_lab_-main -107\EXP 7 - Basic GUI Application\app\src\main\AndroidManifest.xml:38:9-49:20
 46            android:name="com.shashank.platform.furnitureecommerceappui.MainActivity"
-46-->C:\Users\ADMIN\Downloads\Mobile_Computing_lab_-main\EXP 7 - Basic GUI Application\app\src\main\AndroidManifest.xml:39:13-41
+46-->F:\Mobile_Computing_lab_-main -107\EXP 7 - Basic GUI Application\app\src\main\AndroidManifest.xml:39:13-41
 47            android:label=""
-47-->C:\Users\ADMIN\Downloads\Mobile_Computing_lab_-main\EXP 7 - Basic GUI Application\app\src\main\AndroidManifest.xml:40:13-29
+47-->F:\Mobile_Computing_lab_-main -107\EXP 7 - Basic GUI Application\app\src\main\AndroidManifest.xml:40:13-29
 48            android:screenOrientation="portrait"
-48-->C:\Users\ADMIN\Downloads\Mobile_Computing_lab_-main\EXP 7 - Basic GUI Application\app\src\main\AndroidManifest.xml:41:13-49
+48-->F:\Mobile_Computing_lab_-main -107\EXP 7 - Basic GUI Application\app\src\main\AndroidManifest.xml:41:13-49
 49            android:theme="@style/MyAppTheme"
-49-->C:\Users\ADMIN\Downloads\Mobile_Computing_lab_-main\EXP 7 - Basic GUI Application\app\src\main\AndroidManifest.xml:42:13-46
+49-->F:\Mobile_Computing_lab_-main -107\EXP 7 - Basic GUI Application\app\src\main\AndroidManifest.xml:42:13-46
 50            android:windowSoftInputMode="stateHidden|adjustPan" >
-50-->C:\Users\ADMIN\Downloads\Mobile_Computing_lab_-main\EXP 7 - Basic GUI Application\app\src\main\AndroidManifest.xml:43:13-64
+50-->F:\Mobile_Computing_lab_-main -107\EXP 7 - Basic GUI Application\app\src\main\AndroidManifest.xml:43:13-64
 51            <intent-filter>
-51-->C:\Users\ADMIN\Downloads\Mobile_Computing_lab_-main\EXP 7 - Basic GUI Application\app\src\main\AndroidManifest.xml:44:13-48:29
+51-->F:\Mobile_Computing_lab_-main -107\EXP 7 - Basic GUI Application\app\src\main\AndroidManifest.xml:44:13-48:29
 52                <action android:name="android.intent.action.MAIN" />
-52-->C:\Users\ADMIN\Downloads\Mobile_Computing_lab_-main\EXP 7 - Basic GUI Application\app\src\main\AndroidManifest.xml:45:17-69
-52-->C:\Users\ADMIN\Downloads\Mobile_Computing_lab_-main\EXP 7 - Basic GUI Application\app\src\main\AndroidManifest.xml:45:25-66
+52-->F:\Mobile_Computing_lab_-main -107\EXP 7 - Basic GUI Application\app\src\main\AndroidManifest.xml:45:17-69
+52-->F:\Mobile_Computing_lab_-main -107\EXP 7 - Basic GUI Application\app\src\main\AndroidManifest.xml:45:25-66
 53
 54                <category android:name="android.intent.category.LAUNCHER" />
-54-->C:\Users\ADMIN\Downloads\Mobile_Computing_lab_-main\EXP 7 - Basic GUI Application\app\src\main\AndroidManifest.xml:47:17-77
-54-->C:\Users\ADMIN\Downloads\Mobile_Computing_lab_-main\EXP 7 - Basic GUI Application\app\src\main\AndroidManifest.xml:47:27-74
+54-->F:\Mobile_Computing_lab_-main -107\EXP 7 - Basic GUI Application\app\src\main\AndroidManifest.xml:47:17-77
+54-->F:\Mobile_Computing_lab_-main -107\EXP 7 - Basic GUI Application\app\src\main\AndroidManifest.xml:47:27-74
 55            </intent-filter>
 56        </activity>
 57    </application>

@@ -139,11 +139,6 @@
                                 android:layout_height="wrap_content"
                                 android:orientation="vertical">
 
-                                <ImageView
-                                    android:layout_width="36dp"
-                                    android:layout_height="36dp"
-                                    android:src="@drawable/plant_white_bg" />
-
                                 <RelativeLayout
                                     android:layout_width="match_parent"
                                     android:layout_height="wrap_content"
@@ -153,7 +148,7 @@
                                         android:layout_width="wrap_content"
                                         android:layout_height="wrap_content"
                                         android:fontFamily="@font/calibri"
-                                        android:text="Plant"
+                                        android:text="Cricket kit"
                                         android:textColor="#3C3C3C"
                                         android:textSize="16sp" />
 
@@ -183,11 +178,6 @@
                                 android:layout_height="wrap_content"
                                 android:orientation="vertical">
 
-                                <ImageView
-                                    android:layout_width="36dp"
-                                    android:layout_height="36dp"
-                                    android:src="@drawable/lamp_white_bg" />
-
                                 <RelativeLayout
                                     android:layout_width="match_parent"
                                     android:layout_height="wrap_content"
@@ -196,12 +186,15 @@
                                     <TextView
                                         android:layout_width="wrap_content"
                                         android:layout_height="wrap_content"
+                                        android:layout_marginEnd="9dp"
+                                        android:layout_toStartOf="@+id/imageView"
                                         android:fontFamily="@font/calibri"
-                                        android:text="Lamp"
+                                        android:text="SG test ball"
                                         android:textColor="#3C3C3C"
                                         android:textSize="16sp" />
 
                                     <ImageView
+                                        android:id="@+id/imageView"
                                         android:layout_width="wrap_content"
                                         android:layout_height="wrap_content"
                                         android:layout_alignParentTop="true"
@@ -227,11 +220,6 @@
                                 android:layout_height="wrap_content"
                                 android:orientation="vertical">
 
-                                <ImageView
-                                    android:layout_width="36dp"
-                                    android:layout_height="36dp"
-                                    android:src="@drawable/chair_white_bg" />
-
                                 <RelativeLayout
                                     android:layout_width="match_parent"
                                     android:layout_height="wrap_content"
@@ -241,7 +229,7 @@
                                         android:layout_width="wrap_content"
                                         android:layout_height="wrap_content"
                                         android:fontFamily="@font/calibri"
-                                        android:text="Chair"
+                                        android:text="Gloves"
                                         android:textColor="#3C3C3C"
                                         android:textSize="16sp" />
 
@@ -317,7 +305,7 @@
                                         android:layout_width="match_parent"
                                         android:layout_height="wrap_content"
                                         android:fontFamily="@font/calibri"
-                                        android:text="Cactus"
+                                        android:text="Cricket kit"
                                         android:textColor="#FFFFFF"
                                         android:textSize="14sp"
                                         android:textStyle="bold" />
@@ -334,7 +322,7 @@
                                             android:layout_height="wrap_content"
                                             android:layout_weight="80"
                                             android:fontFamily="@font/calibri"
-                                            android:text="$18"
+                                            android:text="$100"
                                             android:textColor="#FFFFFF"
                                             android:textSize="12sp"
                                             android:textStyle="bold" />
@@ -384,7 +372,7 @@
                                         android:layout_width="match_parent"
                                         android:layout_height="wrap_content"
                                         android:fontFamily="@font/calibri"
-                                        android:text="Traditional Chair"
+                                        android:text="SS English willow bat"
                                         android:textColor="#FFFFFF"
                                         android:textSize="14sp"
                                         android:textStyle="bold" />
@@ -401,7 +389,7 @@
                                             android:layout_height="wrap_content"
                                             android:layout_weight="80"
                                             android:fontFamily="@font/calibri"
-                                            android:text="$24"
+                                            android:text="$25"
                                             android:textColor="#FFFFFF"
                                             android:textSize="12sp"
                                             android:textStyle="bold" />
@@ -457,7 +445,7 @@
                                         android:layout_width="match_parent"
                                         android:layout_height="wrap_content"
                                         android:fontFamily="@font/calibri"
-                                        android:text="Wooden Chair"
+                                        android:text="SG Test ball"
                                         android:textColor="#FFFFFF"
                                         android:textSize="14sp"
                                         android:textStyle="bold" />
@@ -474,7 +462,7 @@
                                             android:layout_height="wrap_content"
                                             android:layout_weight="80"
                                             android:fontFamily="@font/calibri"
-                                            android:text="$44"
+                                            android:text="$12"
                                             android:textColor="#FFFFFF"
                                             android:textSize="12sp"
                                             android:textStyle="bold" />
@@ -526,7 +514,7 @@
                                         android:layout_width="match_parent"
                                         android:layout_height="wrap_content"
                                         android:fontFamily="@font/calibri"
-                                        android:text="Elegant Lamp"
+                                        android:text="SS Gloves"
                                         android:textColor="#FFFFFF"
                                         android:textSize="14sp"
                                         android:textStyle="bold" />
@@ -543,7 +531,7 @@
                                             android:layout_height="wrap_content"
                                             android:layout_weight="80"
                                             android:fontFamily="@font/calibri"
-                                            android:text="$13"
+                                            android:text="$5"
                                             android:textColor="#FFFFFF"
                                             android:textSize="12sp"
                                             android:textStyle="bold" />
@@ -601,7 +589,7 @@
                                         android:layout_width="match_parent"
                                         android:layout_height="wrap_content"
                                         android:fontFamily="@font/calibri"
-                                        android:text="Beach Beautiful"
+                                        android:text="Cricket Shoes"
                                         android:textColor="#FFFFFF"
                                         android:textSize="14sp"
                                         android:textStyle="bold" />
@@ -618,7 +606,7 @@
                                             android:layout_height="wrap_content"
                                             android:layout_weight="80"
                                             android:fontFamily="@font/calibri"
-                                            android:text="$36"
+                                            android:text="$7"
                                             android:textColor="#FFFFFF"
                                             android:textSize="12sp"
                                             android:textStyle="bold" />
@@ -669,7 +657,7 @@
                                         android:layout_width="match_parent"
                                         android:layout_height="wrap_content"
                                         android:fontFamily="@font/calibri"
-                                        android:text="Architectural"
+                                        android:text="Helmet"
                                         android:textColor="#FFFFFF"
                                         android:textSize="14sp"
                                         android:textStyle="bold" />
@@ -686,7 +674,7 @@
                                             android:layout_height="wrap_content"
                                             android:layout_weight="80"
                                             android:fontFamily="@font/calibri"
-                                            android:text="$30"
+                                            android:text="$15"
                                             android:textColor="#FFFFFF"
                                             android:textSize="12sp"
                                             android:textStyle="bold" />
